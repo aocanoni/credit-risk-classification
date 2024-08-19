@@ -1,7 +1,7 @@
 # credit-risk-classification
 UCI data analytics bootcamp Module 20 Challenge, credit-risk-classification- Ashley Canonizado
 
-- All my code is located within the file 'credit_risk_classification.ipynb'
+- All my code is located within the file 'credit_risk_classification.ipynb' under the 'credit_risk' folder.
 
 Analysis Overview:
 
