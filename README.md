@@ -13,15 +13,7 @@ Results:
 The confusion matrix tells us that there were over 18000 correct predictions within the test model, and less than 1000 incorrect predictions. 
 Meanwhile, the classification report gave us the following information:
 
-                precision    recall  f1-score   support
-
-  healthy loan       1.00      0.99      1.00     18765
-high-risk loan       0.85      0.91      0.88       619
-
-      accuracy                           0.99     19384
-     macro avg       0.92      0.95      0.94     19384
-  weighted avg       0.99      0.99      0.99     19384
-
+![image](https://github.com/user-attachments/assets/3b9a04a4-dab3-4aa3-9cf4-669c80d0e503)
 
 
 Summary:
